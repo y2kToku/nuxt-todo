@@ -13,7 +13,7 @@
   "dependencies": {
     "@nuxtjs/dotenv": "^1.4.1",
     "firebase": "^7.14.2",
-    "moment": "^2.25.1",
+    "moment": "^2.29.2",
     "nuxt": "^2.0.0",
     "vuexfire": "^3.2.2"
   },
